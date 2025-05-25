@@ -16,7 +16,7 @@ pipline{
         }
         stage("deploy"){
             steps{
-                echo 'deploy ...'
+                echo 'deploy ..'
             }
         }
 
@@ -24,8 +24,5 @@ pipline{
 
 
     }
-
-
-
 
 }
